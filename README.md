@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -20,7 +20,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/patron290/patron290/output/snake.svg" alt="Snake animation" />
 
 ###
